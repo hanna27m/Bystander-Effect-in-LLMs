@@ -57,8 +57,7 @@ This folder ensures reproducibility of the analysis.
 ---
 
 ### 🔹 `plots/`
-Stores all figures generated from the notebooks, including:
-
+Stores all figures generated from the notebooks
 
 ---
 
